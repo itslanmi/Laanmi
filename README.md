@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Laanmi
-- 👀 I’m interested in WEB Development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AI software development
+- 🌱 I’m currently learning NN
 - 📫 How to reach me milan.momcilovic03@gmail.com
 
 <!---
