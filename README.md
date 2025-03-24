@@ -31,7 +31,7 @@ From machine learning algorithms to neural networks, I thrive on turning complex
 
 When I'm not coding, you'll find me skiing on the Alps. I’m always eager to connect with like-minded individuals and explore new opportunities. Let’s embark on this exciting AI adventure together!
 
-- [LinkedIn](https://www.linkedin.com/in/milanmomcilovich/)
+- [LinkedIn](https://www.linkedin.com/in/itslanmi/)
 - [Email](mailto:milan.momcilovic03@gmail.com)
 
 ---
